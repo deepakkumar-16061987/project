@@ -1,1 +1,2 @@
 this is deepak new file
+git merging concept validaing
