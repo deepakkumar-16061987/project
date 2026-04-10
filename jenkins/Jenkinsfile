@@ -26,6 +26,11 @@ pipeline{
             steps{
                 sh "free -h"
             }
+        
         }
+        stage('Disk utilization'){
+
+		}
+
            }
 }
