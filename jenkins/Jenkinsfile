@@ -28,7 +28,7 @@ pipeline{
             }
         
         }
-        stage('Disk utilization'){
+        stage('disk utilization'){
 
 		}
 
